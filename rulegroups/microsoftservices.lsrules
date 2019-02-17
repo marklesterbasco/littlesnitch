@@ -1,0 +1,27 @@
+{
+  "description" : "Domains owned by Microsoft Corporation.",
+  "name" : "Microsoft Services",
+  "rules" : [
+    {
+      "action" : "allow",
+      "creationDate" : 1547562797.125447,
+      "modificationDate" : 1550363425.1022291,
+      "owner" : "me",
+      "process" : "any",
+      "remote-domains" : [
+        "onedrive.com",
+        "office.com",
+        "microsoft.com",
+        "msedge.net",
+        "windows.com",
+        "hockeyapp.net",
+        "bing.com",
+        "live.com",
+        "oaspapps.com",
+        "skype.com",
+        "live.net",
+        "office.net"
+      ]
+    }
+  ]
+}
